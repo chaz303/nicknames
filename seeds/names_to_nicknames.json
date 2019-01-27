@@ -1,0 +1,9 @@
+[
+  { "nickname_id": "1", "name_id": "1" },
+  { "nickname_id": "1", "name_id": "2" },
+  { "nickname_id": "1", "name_id": "3" },
+  { "nickname_id": "2", "name_id": "5" },
+  { "nickname_id": "3", "name_id": "4" },
+  { "nickname_id": "4", "name_id": "4" },
+  { "nickname_id": "5", "name_id": "4" }
+]

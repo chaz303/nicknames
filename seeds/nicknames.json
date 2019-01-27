@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "nickname": "Adri",
+    "nickname_normed": "adri",
+    "is_masculine": "1",
+    "is_feminine": "1"
+  },
+  {
+    "id": "2",
+    "nickname": "Lolita",
+    "nickname_normed": "lolita",
+    "is_feminine": "1"
+  },
+  {
+    "id": "3",
+    "nickname": "Chuy",
+    "nickname_normed": "chuy",
+    "is_masculine": "1"
+  },
+  {
+    "id": "4",
+    "nickname": "Chucho",
+    "nickname_normed": "chucho",
+    "is_masculine": "1"
+  },
+  {
+    "id": "5",
+    "nickname": "Chus",
+    "nickname_normed": "chus",
+    "is_masculine": "1"
+  }
+]

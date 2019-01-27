@@ -1,0 +1,17 @@
+[
+  { "id": "1", "name": "Adrián", "name_normed": "adrian", "is_masculine": "1" },
+  {
+    "id": "2",
+    "name": "Adriano",
+    "name_normed": "adriano",
+    "is_masculine": "1"
+  },
+  {
+    "id": "3",
+    "name": "Adriana",
+    "name_normed": "adriana",
+    "is_feminine": "1"
+  },
+  { "id": "4", "name": "Jesús", "name_normed": "jesus", "is_masculine": "1" },
+  { "id": "5", "name": "Dolores", "name_normed": "dolores", "is_feminine": "1" }
+]
