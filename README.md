@@ -5,8 +5,9 @@ Nickname Database
 1. Be sure to have postgres and yarn installed on your computer.  
 
 2. In Postgres run: create database nicknames  
+
 **OR**  
-2. In the terminal run: createdb nicknames  
+ In the terminal run: createdb nicknames  
 
 3. In the index.js file, change user (and password if necessary).
 
