@@ -1,0 +1,28 @@
+body {
+  background-color: #777;
+}
+#header {
+  text-align: center;
+  color: #ddd;
+  font-family: "Arial";
+  font-family: sans-serif;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #555; /* old IE */
+  background-color: #555; /* Modern Browsers */
+}
+#footer {
+  text-align: right;
+  color: #ddd;
+  font-family: "Arial";
+  font-family: sans-serif;
+  width: 790px;
+  margin-left: auto;
+  margin-right: auto;
+}
